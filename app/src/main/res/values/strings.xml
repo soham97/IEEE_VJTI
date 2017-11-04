@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IEEE</string>
+
+    <string-array name="nav_item_activity_titles">
+        <item>All Notes</item>
+        <item>Favourites</item>
+        <item>Settings</item>
+    </string-array>
+
+</resources>
